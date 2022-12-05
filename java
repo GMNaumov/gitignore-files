@@ -41,7 +41,7 @@ local.properties
 .scala_dependencies
 .worksheet
 
-#.project
+.project
 
 .sts4-cache/
 
@@ -120,10 +120,8 @@ fabric.properties
 
 .idea/caches/build_file_checksums.ser
 
-*.iml
 modules.xml
 .idea/misc.xml
-*.ipr
 
 .idea/**/sonarlint/
 
