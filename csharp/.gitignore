@@ -1,18 +1,24 @@
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebugPS/
+[Rr]elease/
+[Rr]eleases/
+[Rr]eleasePS/
+
+x64/
+x86/
+bld/
 
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
+*.[Cc]ache
+!?*.[Cc]ache/
 
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
@@ -26,13 +32,9 @@ bld/
 
 .vs/
 
-#wwwroot/
-
 *.VisualState.xml
 TestResult.xml
 
-[Dd]ebugPS/
-[Rr]eleasePS/
 dlldata.c
 
 project.lock.json
@@ -168,7 +170,7 @@ _pkginfo.txt
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
-*.[Cc]ache
+
 # but keep track of directories ending in .cache
 !*.[Cc]ache/
 
@@ -276,7 +278,7 @@ coverage*.info
 *.appxbundle
 *.appxupload
 
-!?*.[Cc]ache/
+
 
 #*.snk
 
