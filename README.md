@@ -1,4 +1,4 @@
 # gitignore-files
-.gitignore-files for my different projects
+A personal view of .gitignore-files for my different various
 
 Created with https://www.toptal.com/developers/gitignore
